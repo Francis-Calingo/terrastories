@@ -5,8 +5,8 @@ tl:
   media_links: Mga link na media
   places: Lugar
   place: Mga lugar
-  speakers: Speakers
-  speaker: Speaker
+  speakers: Mga nagsasalita
+  speaker: Nagsasalita
   stories: Mga kwento
   story: Kwento
   theme: Tema
@@ -30,7 +30,7 @@ tl:
   member_dashboard: "Dashboard ng mga Miyembro"
   alphabetical: A-Z
   back_to_map: "Bumalik sa mapa"
-  back_to_welcome: "Back to Welcome Page"
+  back_to_welcome: "Bumalik sa Welcome Page"
   sponsored_by: Sponsored by
   close: Isara
   community_search:
@@ -55,7 +55,7 @@ tl:
   place_name: "Place name pronunciation"
   place_type: "Type of place"
   type_of_place: Type of place
-  region: Region
+  region: Rehiyon
   remember_me: "Remember me"
   reversed_alphabetical: Z-A
   select_category: "Select category"
