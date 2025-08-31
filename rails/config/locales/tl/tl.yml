@@ -1,8 +1,8 @@
 tl:
   community: Komunidad
   communities: Mga komunidad
-  media_link: Media Link
-  media_links: Media Links
+  media_link: Link na media
+  media_links: Mga link na media
   places: Lugar
   place: Mga lugar
   speakers: Speakers
@@ -10,8 +10,8 @@ tl:
   stories: Mga kwento
   story: Kwento
   theme: Tema
-  users: Users
-  user: User
+  users: Mga gumagamit
+  user: Gumagamit
 
   languages:
     am: Amhariko
@@ -27,12 +27,12 @@ tl:
     zh: Tsino
 
   # Front End Translations
-  member_dashboard: "Member Dashboard"
+  member_dashboard: "Dashboard ng mga Miyembro"
   alphabetical: A-Z
-  back_to_map: "Back to Map"
+  back_to_map: "Bumalik sa mapa"
   back_to_welcome: "Back to Welcome Page"
   sponsored_by: Sponsored by
-  close: Close
+  close: Isara
   community_search:
     title: "Explore Terrastories"
     description: "You can now search and explore publicly available community stories."
@@ -46,7 +46,7 @@ tl:
   intro:
     explanation: "Terrastories are audiovisual recordings of place-based storytelling. This offline-compatible application enables local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them."
     question: "What's a terrastory?"
-  language: Language
+  language: Wika
   login: Login
   logout: Logout
   most_recent: "Most recent"
