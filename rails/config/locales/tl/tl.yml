@@ -14,17 +14,17 @@ en:
   user: User
 
   languages:
-    am: Amharic
-    en: English
-    es: Spanish
-    ja: Japanese
+    am: Amhariko
+    en: Ingles
+    es: Espanyol
+    ja: Wikang hapon
     mat: Matawai
-    nl: Dutch
+    nl: Olandes
     pa: Punjabi
-    pt: Portuguese
+    pt: Portuges
     sw: Swahili
     way: Wayana
-    zh: Chinese
+    zh: Tsino
 
   # Front End Translations
   member_dashboard: "Member Dashboard"
