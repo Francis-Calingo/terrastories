@@ -37,7 +37,7 @@ tl:
     title: "Galugarin ang Terrastories"
     description: "Maari ka na maghanap at galugarin ng mga kwentong komunidad publicly available community stories." na magagamit sa publiko
 
-    button_label: "Start Exploring"
+    button_label: "Magsimulang galugarin"
   default: default
   enter: "Enter Site"
   filter_stories: "Filter stories"
