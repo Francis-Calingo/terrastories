@@ -54,13 +54,13 @@ tl:
   no_media: No Media Available
   password: Password
   place_name: "Pagbigkas ng pangalan ng lugar"
-  place_type: "Type of place"
-  type_of_place: Type of place
+  place_type: "Uring lugar"
+  type_of_place: Uring lugar
   region: Rehiyon
-  remember_me: "Remember me"
+  remember_me: "Tandaan mo ako"
   reversed_alphabetical: Z-A
-  select_category: "Select category"
-  select_option: "Select option"
+  select_category: "Pumili ng kategorya"
+  select_option: "Pumili ng opsyon"
   selected_language: "selected"
   sign_up: "Sign up"
   sort_stories: "Sort stories"
