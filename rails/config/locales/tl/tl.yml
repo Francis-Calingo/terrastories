@@ -31,28 +31,29 @@ tl:
   alphabetical: A-Z
   back_to_map: "Bumalik sa mapa"
   back_to_welcome: "Bumalik sa Welcome Page"
-  sponsored_by: Sponsored by
+  sponsored_by: Nagsponsor ng
   close: Isara
   community_search:
-    title: "Explore Terrastories"
-    description: "You can now search and explore publicly available community stories."
+    title: "Galugarin ang Terrastories"
+    description: "Maari ka na maghanap at galugarin ng mga kwentong komunidad publicly available community stories." na magagamit sa publiko
+
     button_label: "Start Exploring"
   default: default
   enter: "Enter Site"
   filter_stories: "Filter stories"
   forgot_password: "Forgot your password?"
   hello: Hello
-  introduction: Introduction
+  introduction: Pagpapakilala
   intro:
     explanation: "Terrastories are audiovisual recordings of place-based storytelling. This offline-compatible application enables local communities to locate and map their own oral storytelling traditions about places of significant meaning or value to them."
-    question: "What's a terrastory?"
+    question: "Ano ang terrastory?"
   language: Wika
-  login: Login
-  logout: Logout
-  most_recent: "Most recent"
+  login: Maglogin
+  logout: Maglogout
+  most_recent: "Pinakabago"
   no_media: No Media Available
   password: Password
-  place_name: "Place name pronunciation"
+  place_name: "Pagbigkas ng pangalan ng lugar"
   place_type: "Type of place"
   type_of_place: Type of place
   region: Rehiyon
